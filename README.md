@@ -1,4 +1,6 @@
-# meetups2
+# Meetups App
+
+> A VueJS/Vuetify app from the Vuetify course by Max Shwarzmueller. App allows for organizing and applying for meetups. 
 
 ## Project setup
 ```
